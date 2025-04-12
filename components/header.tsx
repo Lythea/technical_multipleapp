@@ -121,7 +121,7 @@ const Header: React.FC<HeaderProps> = ({
   return (
     <div className="bg-white shadow h-20 px-8 flex items-center justify-between">
       {/* Left - App Name */}
-      <h1 className="text-2xl font-semibold">Trainee</h1>
+      <h1 className="text-2xl font-semibold">Multiple App</h1>
 
       {/* Center - Navigation Links */}
       <div className="flex space-x-6 text-sm font-medium">
